@@ -17,3 +17,8 @@ The 7 types of changes that can be applied are:
     6.Brightness
     7.Dimension adjustment/shift
     
+Sample input images are present in:python_file_set/input_set
+Output images generated: 1000 images in- output_generated_set/output_generated_set.rar
+
+Sample visualization of each image generator and image processing can be seen in jupyter notebook present in:images(jupyter) 
+[Notebook  created as a part of guided course]
